@@ -2,7 +2,7 @@
 
 # contract-deployments
 
-This repo contains execution code and artifacts related to Base contract deployments, upgrades, and calls. For actual contract implementations, see [base-org/contracts](https://github.com/base-org/contracts).
+This repo contains execution code and artifacts related to Base contract deployments on both mainnet and testnet, upgrades, and calls. For actual contract implementations, see [base-org/contracts](https://github.com/base-org/contracts).
 
 This repo is structured with each network having a high-level directory which contains subdirectories of any "tasks" (contract deployments/calls) that have happened for that network.
 
